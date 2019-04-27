@@ -1,0 +1,19 @@
+React
+State management with context and hooks, reducers
+Saga and thunks
+Parcel
+typescript
+MongoDB and Mongoose
+GraphQl/ Relay
+Node, Express
+React Router
+Assets: images, svg, Fonts
+Passport, passport-local
+Styled components, radium or JSS (react-JSS)
+Server-side rendereing
+ES8+ (Object spread, import, export)
+Hot module replacment on server and client (Parcel for free?)
+Jest
+Cypruss or protractor
+API contract testing
+
