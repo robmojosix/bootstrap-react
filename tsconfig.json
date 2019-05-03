@@ -1,12 +1,13 @@
 {
-  "exclude": ["node_modules", "dist/*"],
-  "compilerOptions": {
-    "jsx": "react",
-    "target": "es2017",
-    "allowSyntheticDefaultImports": true,
-    "lib": ["dom", "es2017"],
-    "module": "commonjs",
-    "strict": true,
-    "rootDir": "./src"
-  }
+	"exclude": ["node_modules", "dist/*"],
+	"compilerOptions": {
+		"jsx": "react",
+		"target": "es2017",
+		"allowSyntheticDefaultImports": true,
+		"lib": ["dom", "es2017"],
+		"module": "commonjs",
+		"strict": true,
+		"rootDir": "./src",
+		"noImplicitAny": false
+	}
 }
