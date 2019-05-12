@@ -6,8 +6,8 @@
 ✅ES8+ (Object spread, import, export)
 ✅Hot module replacment on server and client (Parcel for free?)
 ✅Assets: images, svg, Fonts
+✅Styled components
 
-Styled components, radium or JSS (react-JSS)
 React Router
 State management with context and hooks, reducers
 Saga and thunks
