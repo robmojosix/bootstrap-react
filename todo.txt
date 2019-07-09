@@ -11,7 +11,7 @@
 React Router
 State management with context and hooks, reducers
 Saga and thunks
-Jest
+React-testing-library
 Protractor
 MongoDB and Mongoose
 GraphQl/ Relay
